@@ -1,0 +1,21 @@
+.dcard{
+    width: 50%;
+}
+
+.dcard-img-top{
+    max-width: 50%;
+    width: 50%;
+    flex-grow: 1;
+}
+.outerContainer{
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap ;
+    padding-top:5%;
+}
+body {
+    background-image: linear-gradient(60deg, #A1A21A 10%, #00AB94 60%, #A00BAB 80%)
+}
+.card{
+    background-image: linear-gradient(60deg, #A10A00 10%, #AA009B 60%, #000AAB 80%)
+}
